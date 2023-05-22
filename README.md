@@ -77,7 +77,21 @@ The measures are included under the sales modelling which are:
 
 ![image](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/ed6eff1a-442e-489d-bdbe-b9f6e78079ae)
 
+## The charts
 
+* Current years sales by category charts:
+in this charts, i used donurt chart to visualise my report between product category and current year sales. the product categories includes: 
+* Entertainment furniture with 260.59m of 36.01%
+* Seating furniture with 206.32m of 28.51%
+* Storage furniture with 153.5m of 21.21%
+* Sleeping furniture with 103.31m of 14.28%
+
+![image](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/8f35abbf-c166-4199-a777-cf3655719388)
+
+I also show the producttooltip of each products sales generated between current year sales, previouse year sales and budgeted sales of each product categories
+ * Entertainment categories
+ 
+ ![Screenshot (115)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/dea55b83-5a8e-458b-a8df-2c7e4d71fadb)
 
 
 
