@@ -42,6 +42,7 @@ The budget phase, which comprises of the:
 * Budgeted amount
 * Month
 * Product id
+
 ![image](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/cab84bfb-6f86-45c5-9ecf-5ca58e14b557)
 
 
