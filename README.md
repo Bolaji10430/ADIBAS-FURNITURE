@@ -35,6 +35,15 @@ In this analysis, i have the full dashboard analysis page where i house all the 
 ## TREND TOOLTIP
 ![image](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/38162e20-119c-4211-b742-7be32fd04e6f)
 
+## MODELLING
+The modelling is divided into four phases:
+
+The budget phase, which comprises of the:
+* Budgeted amount
+* Month
+* Product id
+![image](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/cab84bfb-6f86-45c5-9ecf-5ca58e14b557)
+
 
 
 
