@@ -38,12 +38,45 @@ In this analysis, i have the full dashboard analysis page where i house all the 
 ## MODELLING
 The modelling is divided into four phases:
 
-The budget phase, which comprises of the:
+1,The budget phase, which comprises of the following:
 * Budgeted amount
 * Month
 * Product id
 
 ![image](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/cab84bfb-6f86-45c5-9ecf-5ca58e14b557)
+
+2,The datedim phase, which comprises of the following:
+* Date
+* Month
+* Month number
+* Year
+* Quartile
+
+![image](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/563862ed-a01c-421d-bfe7-8767f5f53510)
+
+3,The product master phase, which comprises of the following:
+* Category
+* Product name
+* Product Id
+
+![image](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/c28e322d-22c0-4a73-9677-849d3a7439e1)
+
+4, The sales, which comprise of the following:
+*  Date
+*  Product Id
+*  Sales amount
+
+![image](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/666a1059-4c05-4589-a898-59ac4ea951f0)
+
+The measures are included under the sales modelling which are:
+* Budget variance%
+* Budgeted sales
+* Current year sales
+* Previouse year sales
+* Year on year sales growth%
+
+![image](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/ed6eff1a-442e-489d-bdbe-b9f6e78079ae)
+
 
 
 
