@@ -97,7 +97,13 @@ I also show the producttooltip of each products sales generated between current 
 
 ![Screenshot (117)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/dbcf2e3f-2fd3-4210-83c5-d6a216f2cb5c)
 
+Storage furniture
 
+![Screenshot (118)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/d6843a37-9d55-4a60-996d-b9568523add3)
+
+Sleeping furniture
+
+![Screenshot (119)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/a57b0257-5f4a-4ae1-9508-c8e7d2d1c6ec)
 
 
 
