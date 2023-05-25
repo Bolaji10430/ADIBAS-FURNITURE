@@ -106,5 +106,9 @@ Sleeping furniture
 ![Screenshot (119)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/a57b0257-5f4a-4ae1-9508-c8e7d2d1c6ec)
 
 
+In the trend chart, i make use of the scatter chart to display current year sales against year on year sale growth and also 
+included product name too. 
+The products that maint
+
 
 
