@@ -115,6 +115,7 @@ Liftchair maintain 42.86% in June, below is the chart board
 ![Screenshot (127)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/017d33b8-8e57-4556-9371-757995329f8f)
 
 Waterbed, Homebar and Recliner maintain 40.85% sales pecentage 
+
 waterbed furniture
 
 ![Screenshot (128)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/37ead129-b895-4171-a22e-f24fa44fa400)
@@ -126,7 +127,8 @@ Homebar maintain 40.85%
 
 Recliner furniture
 
-![Screenshot (130)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/119f799f-8450-4bc7-903d-d31bd6e4
+![Screenshot (132)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/2e62ce71-1aac-484b-906e-beff28d3bd7e)
+
 
 While stool furniture drops down in all the months due to low sales
 
