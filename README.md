@@ -79,7 +79,7 @@ The measures are included under the sales modelling which are:
 
 ## The charts
 
-* Current years sales by category charts:
+## Current years sales by category charts:
 in this charts, i used donurt chart to visualise my report between product category and current year sales. the product categories includes: 
 * Entertainment furniture with 260.59m of 36.01%
 * Seating furniture with 206.32m of 28.51%
@@ -105,6 +105,7 @@ Sleeping furniture
 
 ![Screenshot (119)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/a57b0257-5f4a-4ae1-9508-c8e7d2d1c6ec)
 
+## Year on year sales growth% and current year sales by product chart
 
 In the Year on year sales growth% and current year sales by product chart, i make use of the trend tooltip to show trends of products displayed on current year sales against year on year sale growth. 
 
