@@ -110,14 +110,39 @@ In the trend chart, i make use of the scatter chart to display current year sale
 included product name too. 
 
 The products that maintain the highest year on years sales percentage are as follows:
-Liftbed maintain 42.86% in June, below is the chart board
+Liftchair maintain 42.86% in June, below is the chart board
 
 ![Screenshot (127)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/017d33b8-8e57-4556-9371-757995329f8f)
 
 Waterbed, Homebar and Recliner maintain 40.85% sales pecentage 
-waterbed
+waterbed furniture
 
 ![Screenshot (128)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/37ead129-b895-4171-a22e-f24fa44fa400)
+
+Homebar maintain 40.85%
+
+![Screenshot (129)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/ab942675-8fa9-46e0-af8d-7a8cdd8fa652)
+
+
+Recliner furniture
+
+![Screenshot (130)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/119f799f-8450-4bc7-903d-d31bd6e4
+
+While stool furniture drops down in all the months due to low sales
+
+![Screenshot (131)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/1bb86dfa-dee8-40ee-bd8a-da77bf7714d3)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
