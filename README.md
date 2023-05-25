@@ -108,7 +108,17 @@ Sleeping furniture
 
 In the trend chart, i make use of the scatter chart to display current year sales against year on year sale growth and also 
 included product name too. 
-The products that maint
+
+The products that maintain the highest year on years sales percentage are as follows:
+Liftbed maintain 42.86% in June, below is the chart board
+
+![Screenshot (127)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/017d33b8-8e57-4556-9371-757995329f8f)
+
+Waterbed, Homebar and Recliner maintain 40.85% sales pecentage 
+waterbed
+
+![Screenshot (128)](https://github.com/Bolaji10430/ADIBAS-FURNITURE/assets/124039605/37ead129-b895-4171-a22e-f24fa44fa400)
+
 
 
 
